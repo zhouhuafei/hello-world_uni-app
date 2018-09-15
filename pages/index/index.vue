@@ -17,7 +17,7 @@
 		display: flex;
 		align-items: center;
 		justify-content: center;
-		height: 200px;
+		height: 300px;
 		font-size: 100px;
 	}
 </style>
