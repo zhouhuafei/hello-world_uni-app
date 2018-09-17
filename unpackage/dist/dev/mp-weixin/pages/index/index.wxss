@@ -1,0 +1,41 @@
+
+@font-face {
+  font-family: 'iconfont';
+  src: url("//at.alicdn.com/t/font_838306_ywhla6zryj.eot");
+  src: url("//at.alicdn.com/t/font_838306_ywhla6zryj.eot?#iefix") format("embedded-opentype"), url("//at.alicdn.com/t/font_838306_ywhla6zryj.woff") format("woff"), url("//at.alicdn.com/t/font_838306_ywhla6zryj.ttf") format("truetype"), url("//at.alicdn.com/t/font_838306_ywhla6zryj.svg#iconfont") format("svg");
+}
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16rpx;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-up:before {
+  content: "\E689";
+}
+.icon-right:before {
+  content: "\E68A";
+}
+.icon-down:before {
+  content: "\E68B";
+}
+.icon-left:before {
+  content: "\E68C";
+}
+.test {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+  flex: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  height: 300rpx;
+  font-size: 100rpx;
+}
