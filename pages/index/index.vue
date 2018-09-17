@@ -1,5 +1,6 @@
 <template>
 	<view class="g-wrap">
+		<view>首页</view>
 		<view class="test iconfont icon-down"></view>
 	</view>
 </template>
