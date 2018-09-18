@@ -1,6 +1,8 @@
 <template name="47d33396">
   <view class="_view data-v-7b148709 g-wrap">
-    <view class="_view data-v-7b148709">首页</view>
-    <view class="_view data-v-7b148709 iconfont icon-down"></view>
+    <navigator class="_navigator data-v-7b148709 g-guide" open-type="navigate" url="/pages/detail/index">
+      <view class="_view data-v-7b148709">去详情页</view>
+      <view class="_view data-v-7b148709 iconfont icon-right"></view>
+    </navigator>
   </view>
 </template>

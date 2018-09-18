@@ -1,3 +1,8 @@
 <template name="12bb18aa">
-  <view class="_view data-v-23c3f2dc g-wrap"></view>
+  <view class="_view data-v-23c3f2dc g-wrap">
+    <navigator class="_navigator data-v-23c3f2dc g-guide" open-type="navigate" url="/pages/index/index">
+      <view class="_view data-v-23c3f2dc">去首页</view>
+      <view class="_view data-v-23c3f2dc iconfont icon-right"></view>
+    </navigator>
+  </view>
 </template>

@@ -1,3 +1,8 @@
 <template name="5dde70ae">
-  <view class="_view data-v-41446c10 g-wrap"></view>
+  <view class="_view data-v-41446c10 g-wrap">
+    <navigator class="_navigator data-v-41446c10 g-guide" open-type="navigate" url="/pages/search/index">
+      <view class="_view data-v-41446c10">去搜索页</view>
+      <view class="_view data-v-41446c10 iconfont icon-right"></view>
+    </navigator>
+  </view>
 </template>
