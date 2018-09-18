@@ -1,0 +1,5 @@
+<template name="4b327124">
+  <view class="_view data-v-2c658960 g-test">
+    <view class="_view data-v-2c658960 g-test-text">test组件测试</view>
+  </view>
+</template>
