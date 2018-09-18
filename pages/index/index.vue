@@ -2,7 +2,7 @@
 	<view class="g-wrap">
 		<navigator class="g-guide" open-type="navigate" url="/pages/detail/index">
 			<view>去详情页</view>
-			<view class="iconfont icon-right"></view>
+			<view class="iconfont icon-right"></view>			
 		</navigator>
 	</view>
 </template>
