@@ -5,6 +5,7 @@
 			<view class="iconfont icon-right"></view>
 		</navigator>
 		<g-test></g-test>
+		<image src="../../static/cart_selected.png"></image>
 	</view>
 </template>
 
